@@ -17,6 +17,6 @@ My name is Jatin and I'm a computer science student from at Concordia University
 </p>
 
 
-💬 Reach me by email or LinkedIn! kalsijatin67@gmail.com | www.linkedin.com/in/jatin-kalsi-3b5997240
+💬 Reach me by email or LinkedIn: kalsijatin67@gmail.com | www.linkedin.com/in/jatin-kalsi-3b5997240
 
 📫 Visit my website: https://jateen67.github.io/jatinkalsi/
