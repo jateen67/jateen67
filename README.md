@@ -9,10 +9,10 @@ My name is Jatin and I'm a computer science student from at Concordia University
   </a>
 </p>
 
-🌱 I am currently improving my skills in the following:
+🌱 I am currently learning the following:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts" />
+    <img src="https://skillicons.dev/icons?i=angular,ts" />
   </a>
 </p>
 
