@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**jateen67/jateen67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jatin and I'm a computer science student from at Concordia University.
 
-Here are some ideas to get you started:
+💻 I have experience with the following technologies:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,express,postgres,java,python,ruby,rails,bootstrap" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I am currently improving my skills in the following:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+</p>
+
+
+💬 Reach me by email or LinkedIn! kalsijatin67@gmail.com | www.linkedin.com/in/jatin-kalsi-3b5997240
+
+📫 Visit my website: https://jateen67.github.io/jatinkalsi/
