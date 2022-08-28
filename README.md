@@ -16,6 +16,8 @@ My name is Jatin and I'm a computer science student from at Concordia University
   </a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jateen67)](https://github.com/anuraghazra/github-readme-stats)
+
 
 💬 Reach me by email or LinkedIn: kalsijatin67@gmail.com | www.linkedin.com/in/jatin-kalsi-3b5997240
 
