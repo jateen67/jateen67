@@ -12,7 +12,7 @@ My name is Jatin and I'm a computer science student at Concordia University.
 🌱 I am currently learning the following:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts" />
+    <img src="https://skillicons.dev/icons?i=cs,ts" />
   </a>
 </p>
 
