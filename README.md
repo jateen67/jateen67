@@ -5,14 +5,7 @@ My name is Jatin and I'm a computer science student at Concordia University.
 💻 I have experience with the following technologies:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,express,postgres,java,python,ruby,rails,bootstrap" />
-  </a>
-</p>
-
-🌱 I am currently learning the following:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,ts" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,express,postgres,cs,java,python,ruby,rails,bootstrap" />
   </a>
 </p>
 
