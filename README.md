@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jatin and I'm a computer science student at Concordia University.
+My name is Jatin and I'm a computer science student at McGill University.
 
 💻 I have experience with the following technologies:
 <p align="center">
