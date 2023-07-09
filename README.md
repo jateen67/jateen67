@@ -2,7 +2,7 @@
 
 #### [Website](https://jateen67.github.io/jatinkalsi/) - [Email](mailto:kalsijatin67@icloud.com) - [LinkedIn](https://www.linkedin.com/in/jatin-kalsi/)
 
-Hello, my name is Jatin and I'm a computer science student at McGill University. I'm focused in full-stack development, and am excited to learn more about the art of software engineering
+Hello, my name is Jatin and I'm a computer science student at McGill University. I'm focused in full-stack development, and am excited to learn more about the art of software engineering.
 
 ## Work Experience 👨‍💻
 - Ivalua Inc. ☁️ - Dec 2022 - May 2023
