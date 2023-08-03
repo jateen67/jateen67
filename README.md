@@ -9,8 +9,8 @@ Hello, my name is Jatin and I'm a computer science student at McGill University.
   
    A unicorn startup providing cloud-based procurement software for spend/supplier management
 ## What I’m up to 🏃‍♂️ 
-- Building an AI powered [stock buying recommendation service](https://aistockrecommender.web.app/) 🚀📈
-- Exploring more "low-level" concepts with Go and Rust 🔵🦀
+- Building an AI powered [good news finder](https://github.com/jateen67/news) 🤖📰
+- Exploring interesting concepts with Go 🔵
 - Trying to climb the ranks in LeetCode 🧠⚔️
 - Improving my knowledge of system design 💻🎨
 
