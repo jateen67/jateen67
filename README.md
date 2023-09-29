@@ -17,5 +17,3 @@ My name is Jatin and I'm a computer science student at McGill University. I'm in
 - Exploring more interesting concepts in Go 🔵
 - Trying to climb the ranks in LeetCode 🧠⚔️
 - Improving my knowledge of system design 💻🎨
-
-Feel free to reach out to me through email at kalsijatin67@icloud.com
