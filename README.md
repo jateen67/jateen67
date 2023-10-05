@@ -7,7 +7,7 @@ My name is Jatin and I'm a computer science student at McGill University. I'm in
 ## Experience 👨‍💻
 - Hack4Impact McGill 🌎 - Sept 2023 - Present
 
-  Organization that builds powerful software for social good
+  An organization that builds powerful software for social good
   
 - Ivalua Inc. ☁️ - Dec 2022 - May 2023
   
