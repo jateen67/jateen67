@@ -1,7 +1,5 @@
 # Hi there 👋
 
-#### [Website](https://jateen67.github.io/jatinkalsi/) - [Email](mailto:kalsijatin67@icloud.com) - [LinkedIn](https://www.linkedin.com/in/jatin-kalsi/)
-
 My name is Jatin and I'm a computer science student at McGill University. I'm interested in full-stack development and machine learning, and am excited to learn more about the art of software engineering.
 
 ## Experience 👨‍💻
