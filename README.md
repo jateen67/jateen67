@@ -9,7 +9,7 @@ My name is Jatin and I'm a computer science student at McGill University. I'm in
   
 - Ivalua Inc. ☁️ - Dec 2022 - May 2023
   
-   A unicorn startup providing cloud-based procurement software for spend/supplier management
+   A startup providing cloud-based procurement software for spend/supplier management
 
 ## What I’m up to
 - Exploring more interesting concepts in Go 🔵
