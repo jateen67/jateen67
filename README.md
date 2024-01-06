@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Jatin and I'm a computer science student at McGill University. I'm interested in full-stack development and machine learning, and am excited to learn more about the art of software engineering.
+My name is Jatin and I'm a computer science student at McGill University. I'm interested in full-stack development, and am excited to learn more about the art of software engineering.
 
 ## Experience
 - Hack4Impact McGill 🌎 - Sept 2023 - Present
